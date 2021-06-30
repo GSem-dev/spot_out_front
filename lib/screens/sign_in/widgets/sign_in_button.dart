@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 import 'package:spot_out/screens/bottom_navigation/bottom_navigation_widget.dart';
-import 'package:spot_out/screens/common_widgets/rounded_button.dart';
+import 'package:spot_out/common_widgets/rounded_button.dart';
 
 class SignInButton extends StatelessWidget {
   const SignInButton({
