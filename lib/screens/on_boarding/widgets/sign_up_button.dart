@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import 'package:spot_out/screens/common_widgets/rounded_button.dart';
+import 'package:spot_out/common_widgets/rounded_button.dart';
 import 'package:spot_out/screens/sign_up/sign_up_screen.dart';
 
 class SignUpButton extends StatelessWidget {
