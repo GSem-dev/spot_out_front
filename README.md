@@ -1,16 +1,20 @@
 # spot_out_front
 
-A new Flutter project.
+Spot Out - сервис с помощью которого пользователи могут планировать свой досуг, подбирая себе различные мероприятия. Примером мероприятия может служить: поход в кино или на выставку, совместное путешествие, поход в спортзал, совместное посещение учебных мероприятий и многое другое.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Данный код представляет собой мобильное приложение, написанное на Flutter (поддержка Web планируется в будущем). Основная информация о доступных событиях хранится на сервере. Данный код посылает различные запросы для взаимодействия с сервером.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Ссылки на используемые пакеты:
+  **Верстка**:
+  - адаптивная верстка (?) https://pub.dev/packages/flutter_screenutil
+  - просмотр на различных устройствах https://pub.dev/packages/device_preview
+  - пакет для регистрации https://pub.dev/packages/introduction_screen
+  - 
+  **Внутренне состояние**
+  - хранение данных Hive https://pub.dev/packages/hive
+  - управление состоянием https://flutter.dev/docs/development/data-and-backend/state-mgmt/options
+  - локализация https://pub.dev/packages/easy_localization
