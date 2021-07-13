@@ -11,7 +11,7 @@ class SubtitleWidget extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Text(
-      'Тут ты найдешь кучу интересных меропритияй, а также сможешь создать свои.',
+      'Тут ты найдешь кучу интересных мероприятий, а также сможешь создать свои.',
       textAlign: TextAlign.center,
       style: AppTextStyles.paragraph2.copyWith(color: AppColors.gray20),
     );
