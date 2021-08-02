@@ -16,6 +16,7 @@ dependencies:
   flutter_svg: ^0.22.0
   responsive_framework: ^0.1.4
   device_preview: ^0.7.4
+  introduction_screen: ^2.1.0
 
 dev_dependencies:
   flutter_test:
